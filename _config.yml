@@ -1,5 +1,5 @@
 #remote_theme: bitbrain/jekyll-dash
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: mmistakes/minimal-mistakes
 title: charge2earn
 url: https://www.charge2earn.com
 author: charge2earn
