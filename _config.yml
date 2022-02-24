@@ -1,5 +1,5 @@
-#remote_theme: bitbrain/jekyll-dash
-remote_theme: pmarsceill/just-the-docs
+remote_theme: bitbrain/jekyll-dash
+#remote_theme: pmarsceill/just-the-docs
 title: charge2earn
 url: https://www.charge2earn.com
 author: charge2earn
